@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAAAA8P8AAO/uD/Ai8g8vmfIAL5nyAPAi8g8A7+4PAPD/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "nave"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
